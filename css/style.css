@@ -1,0 +1,179 @@
+
+/*RESET*/
+h1{margin: 0; padding: 0; font-family: 'Nunito', sans-serif; font-weight: 400; }
+h2{padding: 0; margin: 0; font-family: 'Nunito', sans-serif; font-weight: 400;}
+img{margin: 0; padding: 0;}
+p{margin: 0; padding: 0; font-family: 'Nunito', sans-serif; font-weight: 400;}
+span{margin: 0; padding: 0;}
+a{margin: 0; padding: 0; font-family: 'Nunito', sans-serif; font-weight: 400; }
+ul{margin: 0; padding: 0;}
+li{margin: 0; padding: 0; font-family: 'Nunito', sans-serif; font-weight: 400;}
+input{padding: 0; margin: 0;}
+.gilgal{font-style: italic; font-weight: bold; color:#E52D33;}
+/*FIM DO RESET*/
+/*####################################################################################################################*/
+
+/*BACKGROUNDS*/
+.azul{background-color: #032A4C;}
+.preto{background-color: #232323;}
+.cinzae{background-color: #261D1C;}
+.cinzab{background-color: #302423;}
+
+.cinzac{ background-color: #372B2A;}
+.branco{background-color: #FFFFFF;}
+/*FIM DOS BACKGROUNDS*/
+
+/*BORDERS*/
+.border{border: 1px solid #332D2C;}
+.bordertop{border-top: 1px solid #332D2C;}
+.borderbottom{border-bottom:  1px solid #332D2C;}
+.borderleft{border-left:  1px dashed #584A49;}
+.borderrigth {border-right: 1px dashed #584A49;}
+.borderstyle{border-bottom: 4px solid #2A2120; }
+/*FIM DOS BORDERS*/
+
+/*HEADER*/
+.main_header{padding: 30px 0;}
+.main_header img{}
+.main_header ul{float: right; margin-top: 35px;}
+.main_header li{display: inline-table; }
+.main_header a{text-transform: uppercase; padding: 30px 15px; background-color: #281D1C; opacity: 0.8; font-size: 0.9em; border-bottom: 3px solid #372B2A;}
+.main_header a:hover{text-decoration: none; background-color: #1A1616; color: #fff;}
+/*FIM DO HEADER*/
+
+/*FOOTER*/
+.footer{padding: 80px 0;}
+.footer h1{color: #fff; font-size: 1.4em; text-transform: uppercase; margin-bottom: 50px;}
+
+.newsletter input{background-color: #312120; float: left; font-style: italic;}
+.newsletter a{float: right;}
+.redessociais{}
+.redessociais ul{}
+.redessociais li{display: inline-block; margin-right: 15px;}
+
+
+.facebook{background: url('../icons/facebook.png') center center; background-size: cover; width: 40px; height: 40px}
+.twitter{background: url('../icons/twitter.png') center center; background-size: cover; width: 40px; height: 40px}
+.youtube{background: url('../icons/youtube.png') center center; background-size: cover; width: 40px; height: 40px}
+
+/*FIM DO FOOTER*/
+
+
+
+/*INDEX*/
+.banner1{background: url('../img/brackgroundtravel.jpg') center center no-repeat; background-size: cover; height: 600px;}
+.banner1 h1{ margin-top: 250px; color: #fff; text-transform: uppercase; font-size: 4.5em; border-bottom: 2px dashed #fff;}
+.banner1 p{color: #fff; text-transform: uppercase; font-size: 1.5em;}
+
+.diferenciais{padding: 100px 0;}
+.diferenciais h1{color: #fff; font-weight: bold; font-size: 2.2em; margin-bottom: 5px; text-transform: uppercase;}
+.diferenciais h2{color: #7F7773; font-size: 0.7em; margin-bottom: 70px;}
+.diferenciais img{margin-bottom: 60px; border: 2px solid #E52F41; padding: 40px; background-color: #E52F41; border-radius: 100px;}
+.diferenciais img:hover{background-color: #3E2E2D; border: 2px solid #3E2E2D;}
+.diferenciais p{color: #7F7773; margin-bottom: 60px;}
+.diferenciais a{color: #fff; font-weight: bold;}
+.diferenciais a:hover{text-decoration: none; color: #E52F41;}
+
+.servicosindex{padding: 80px 0;}
+.servicosindex h1{color: #fff; text-transform: uppercase; margin-bottom: 5px; font-size: 2.2em;}
+.servicosindex h2{color: #7F7773; font-size: 0.7em; margin-bottom: 30px;}
+.servicosindex p{ color: #7F7773; font-size: 0.9em; margin-bottom: 30px;}
+.servicosindex img{width: 20px; height: 20px; margin-right: 10px;}
+.servicosindex a{color: #E52D33; font-size: 0.7em; text-transform: uppercase;}
+.servicosindex a:hover{color: #D9D7D7; text-decoration: none; }
+.marginbottom{margin-bottom: 30px;}
+
+.servicosindex .servicosaibamais{color: #fff; font-weight: bold;}
+/*FIM DA INDEX*/
+
+
+/*PAGINA EMPRESA*/
+.emrpesa{padding: 80px 0;}
+.empresa1 h1{color: #fff; text-transform: uppercase; font-size: 2.2em;}
+.empresa1 h2{color: #7F7773; font-size: 0.7em; margin-bottom: 30px;}
+.empresa1 h3{color: #fff; margin-bottom: 30px; font-size: 1.4em;}
+.empresa1 img{}
+.empresa1 p{color: #7F7773; font-size: 0.9em; margin-top: 30px;}
+
+.testemunha{}
+.testemunha .title{color: #fff; text-transform: uppercase; font-size: 2.2em; margin-bottom: 5px;}
+.testemunha h2{color: #7F7773; font-size: 0.7em; margin-bottom: 40px;}
+.testemunha img{margin-top: 30px;}
+.testemunha p{color: #7F7773; font-size: 1em; margin: 30px 0;}
+.testemunha h1{font-size: 0.8em; margin-bottom: 30px; color: #fff;}
+
+
+
+
+
+.equipe{padding: 0 0 80px 0;}
+.equipe .title1 h1{color: #fff; font-size: 2.3em;}
+.equipe .title1 h2{color: #7F7773; font-size: 0.7em; margin-bottom: 30px;}
+.equipe img{}
+.equipe h1{font-size: 1.1em; color: #fff; margin-top: 10px; margin-bottom: 5px;}
+.equipe h2{font-size: 0.9em; margin-bottom: 10px; color: #E52D33; font-style: italic;}
+.equipe a{text-decoration: none; color: #7F7773; font-size: 0.9em; font-weight: bold;}
+.equipe a:hover{text-decoration: none; color: #E52F41;}
+/*FIM DA PAGINA EMPRESA*/
+
+/*PAGINA SERVIÇOS*/
+.servicos{padding: 0 0 80px 0;}
+.servicos h1{color: #fff; margin-bottom: 5px; margin-top: 80px; text-transform: uppercase; font-size: 1em;}
+.servicos h2{color: #7F7773; font-size: 0.8em; margin-bottom: 30px;}
+.servicos img{margin-bottom: 20px;}
+.servicos p{color: #7F7773; font-size: 0.9em; margin-bottom: 20px;}
+.servicos a{color: #fff;}
+.servicos a:hover{text-decoration: none; color: #E52D33;}
+
+.pqgilgal{}
+.pqgilgal h1{color: #fff; margin-bottom: 5px; text-transform: uppercase; font-size: 1.8em}
+.pqgilgal h2{color: #7F7773; font-size: 0.8em; margin-bottom: 30px;}
+
+.pqgilgal2{padding-bottom: 100px;}
+.pqgilgal2 h2{color: #fff; font-size: 0.9em; font-weight: bold;}
+.pqgilgal2 p{color: #7F7773; font-size: 0.9em; margin-top: 30px; margin-bottom: 30px;}
+.pqgilgal2 a{color: #fff; font-weight: bold;}
+.pqgilgal2 a:hover{ text-decoration: none ;color: #E52F41;}
+/*FIM DA PAGINA SERVIÇOS*/
+
+/*PAGINA CLIENTES*/
+.clientes{padding: 80px 0;}
+.clientes .title h1{color: #fff; margin-bottom: 5px; font-size: 2.2em;}
+.clientes .title h2{color: #7F7773; font-size: 0.8em; margin-bottom: 40px;}
+.clientes span{color: #7F7773; font-size: 0.8em; margin-top: 10px; display: block;} 
+.clientes img{margin-bottom: 30px;}
+.clientes h1{color: #fff; font-size: 1.3em; text-transform: uppercase;}
+.clientes p{color: #7F7773; font-size: 0.9em; margin-top: 30px;}
+
+/*FIM PAGINA CLIENTES*/
+
+/*PAGINA CONTATO*/
+.contato{padding: 80px 0;}
+.contato h1{color: #fff; margin-bottom: 5px; font-size: 2.2em;}
+.contato h2{color: #7F7773; font-size: 0.8em; margin-bottom: 30px;}
+
+.contato input{background-color: #3A2E2D; border: 1px solid #2A2121; padding: 25px 10px; color: #fff;}
+.contato textarea{background-color: #3A2E2D; border: 1px solid #2A2121; padding: 25px 10px; color: #fff;}
+.contato a{color: #fff; font-weight: bold; font-size: 1em;}
+.contato a:hover{text-decoration: none; color: #E52F41}
+
+.contato img{width: 40px; height: 40px; margin: auto; padding: auto; text-align: center; margin-bottom: 10px;}
+.contato p{color: #7F7773; font-size: 1em;}
+.contatomarginbottom{margin-bottom: 20px;}
+/*FIM PAGINA CONTATO*/
+
+
+
+/*MENU FIXO*/
+.menuFixo {
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+/*FIM DO MENU FIXO*/
+
+
+.menuresponsivo{ float: right;}
+.menuresponsivo img{width: 50px; height: 50px; display: block; float: right; margin-top: 15px;}
+
+
